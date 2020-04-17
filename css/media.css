@@ -1,0 +1,1402 @@
+@media screen and (max-width:1600px) {
+	
+
+    .services_title {
+	    padding: 80px 80px 40px;
+    }
+	
+    .services_body {
+	    padding-right: 260px;
+    }
+	
+    .services_item {
+	    margin-bottom: 40px;
+    }
+
+    .services_item_name {
+	    font-size: 55px;
+    }
+
+    .services_descr {
+	    right: 162px;
+	    top: 100px;
+	    font-size: 120px;
+    }
+
+    .services_descr[data-label="lab_0"] {
+        letter-spacing: 13px;
+    }
+
+    .services_descr[data-label="lab_1"] {
+        letter-spacing: 5px;
+    }
+
+     .services_descr[data-label="lab_2"] {
+        letter-spacing: 6px;
+    }
+
+    .services_descr[data-label="lab_3"] {
+        letter-spacing: 18px;
+    }
+
+    .services_descr[data-label="lab_4"] {
+        letter-spacing: 19px;
+    }
+	
+	
+    .promo_slider img {
+	    width: 85%;
+    }
+
+
+    .gallery_title_navigat ul a {
+	    font-size: 16px;
+    }
+
+    .gallery_body {
+		padding-right: 56px;/*80px - 24px(1.5% от 1600px)*/
+    }                               /* = 56px*/
+
+    .contacts_cont_descr {
+	    font-size: 26px;
+    }
+
+}
+
+	
+	
+
+@media screen and (max-width:1440px){
+
+	.header_body_fitness {
+		font-size: 150px;
+	}
+
+	.header_body_famaly {
+		font-size: 70px;
+		letter-spacing: -2px;
+	}
+
+	.header_body_text .text_column {
+		font-size: 24px;
+	}
+
+	.red_button {
+		 padding: 0 30px;
+         height: 60px;
+         font-size: 24px;
+	}
+
+	.services_title {
+		font-size: 50px;
+		font-weight: 700;
+	}
+
+	.services_item_name {
+		font-size: 45px;
+		word-spacing: 20px;
+		letter-spacing: 2px;
+	}
+
+	.services_descr {
+	     right: 162px;
+	     top: 80px;
+	     font-size: 110px;
+    }
+
+    .services_descr[data-label="lab_0"] {
+         letter-spacing: 11px;
+    }
+
+    .services_descr[data-label="lab_2"] {
+         letter-spacing: 6px;
+    }
+
+    .services_descr[data-label="lab_3"] {
+         letter-spacing: 16px;
+    }
+
+    .services_descr[data-label="lab_4"] {
+         letter-spacing: 17px;
+    }
+
+	
+    .couches_title {
+	     padding: 80px 80px 40px;
+    }
+
+    .couches_title_word {
+    	font-size: 50px;
+	    font-weight: 700;
+    }
+
+    .couches_slider {
+    	padding-bottom: 30px;
+    }
+
+    .photo_descr {
+    	 padding: 40px 30px;
+    }
+
+    .photo_descr_experience {
+    	font-size: 26px;
+    }
+
+    .photo_descr_year {
+    	font-size: 18px;
+    	padding: 20px 0;  
+    }
+
+    .photo_descr_special {
+    	font-size: 26px;
+    	padding-top: 20px;  
+    }
+
+    .photo_descr_list li {
+    	font-size: 16px;
+    }
+
+    .photo_descr_list li::before {
+    	 width: 8px;
+	     height: 8px;
+    }
+
+    .line_start, .line_end {
+    	height: 6px;
+    }
+
+    input[type=range]::-webkit-slider-runnable-track {
+	    height: 6px;
+    }
+
+    input[type=range]::-moz-range-track {
+	    height: 6px;
+    }
+
+    input[type=range]::-ms-track {
+    	 height: 6px;
+    }
+
+    input[type=range]::-webkit-slider-thumb {
+    	height: 30px;
+        width: 15px;
+        margin-top: -12px;
+    }
+
+    input[type=range]::-moz-range-thumb {
+    	height: 30px;
+        width: 15px;
+    }
+
+    input[type=range]::-ms-thumb {
+    	height: 30px;
+        width: 15px;
+    }
+
+
+    .cards {
+    	padding: 80px 0 40px;
+    }
+
+    .cards_title_word {
+	    font-size: 50px;
+	    font-weight: 700;
+    }
+
+    .timetable {
+    	font-size: 26px;
+    }
+
+    .cards_slider {
+    	padding: 80px 20px 70px;
+    }
+
+    .promo {
+    	padding: 80px 0px 40px;
+    }
+
+    .left_line_cont {
+		height: 150px;
+	}
+
+    .left_title {
+    	font-size: 50px;
+    	font-weight: 700;
+    }
+
+    .right_title {
+    	font-size: 50px;
+	    font-weight: 700;
+    }
+
+
+    .gallery_title {
+    	padding: 80px 80px 40px;
+    }
+
+    .gallery_title_name {
+	    font-size: 50px;
+	    font-weight: 700;
+    }
+   
+    .gallery_title_navigat ul a {
+    	font-size: 14px;
+    }
+
+    .galery_body {
+    	padding-right: 58.4px; /*80px - 21.6px(1.5% от 1440px)*/
+    }                           /* = 58.4px*/
+
+    .gallery_elem {
+    	/*height: 166px;*/
+    }
+
+
+    .contacts_title {
+    	padding: 80px 80px 40px;
+    }
+
+    .contacts_title h3 {
+    	font-size: 50px;
+    }
+
+    .contacts_cont {
+    	padding: 0 80px 60px;
+    }
+
+    .contacts_cont_title {
+    	font-size: 22px;
+    }
+
+    .contacts_cont_descr {
+    	font-size: 24px;
+    }
+
+
+    .footer {
+    	padding: 40px 80px 40px;
+    }
+
+    .copy {
+    	font-size: 16px;
+    }
+
+    .contacts_info {
+    	font-size: 18px;
+    }
+
+    .footer_title {
+    	font-size: 26px;
+    }
+
+    .docs_wrap a {
+    	font-size: 16px;
+    }
+
+    .footer_services ul li a {
+    	font-size: 16px;
+    }
+
+
+
+
+    .popup { 
+    	max-width: 500px;
+    	border-radius: 15px;
+    	padding: 40px 20px;
+    } 
+
+    .popup_content {
+    	 max-width: 400px;
+    }
+
+    .popup_content .title {
+    	font-size: 28px;
+    	padding-bottom: 20px;
+    	margin-bottom: 20px;
+    }
+
+    #popup_modal_spa .title {
+	   font-size: 24px;
+	   margin-bottom: 10px;
+}
+
+    .popup_coctent h3 {
+	    margin-top: 0;
+	    margin-bottom: 0;
+    }
+
+    .popup ul li {
+    	font-size: 18px;
+    	margin-bottom: 12px;
+    }
+
+    .popup_content form input {
+    	height: 45px;
+    	padding-left: 25px; 
+        margin-bottom: 15px;
+        font-size: 16px;
+    }
+
+    .popup_content form select {
+    	height: 45px;
+        padding-left: 25px; 
+        margin-bottom: 15px;
+        font-size: 16px;
+    }
+
+    .popup_content form .red_button {
+    	font-size: 16px;
+	    height: 45px;
+    }
+
+    .mfp-close {
+    	width: 35px;
+	    height: 35px;
+	    line-height: 35px;
+	    font-size: 24px;
+    }
+	
+}
+
+		
+
+@media screen and (max-width:1366px) {
+		
+	.galery_body {
+    	padding-right: 59.51px; /*80px - 20.49px(1.5% от 1366px)*/
+	}                            /* = 59.51px*/
+}
+
+
+
+@media screen and (max-width:1280px) {
+
+	.header {
+		padding-right: 50px;
+		padding-left: 50px;
+	}
+
+	.header_title_nav {
+		padding-right: 20px; 
+	}
+
+	.services_title {
+		padding-top: 50px;
+        padding-right: 50px;
+		padding-left: 50px;
+	}
+
+	.services_body {
+		 padding-right: 120px;
+	}
+
+	.services_item_name {
+		font-size: 45px;
+	}
+
+	.services_descr {
+		right: 142px;
+		top: 50px;
+	}
+
+	.couches_title {
+		padding-left: 50px;
+		padding-right: 50px;
+		padding-top: 50px;
+	}
+
+	.cards_title {
+		padding-left: 50px;
+		padding-right: 50px;
+	}
+
+	.gallery_title {
+		padding-left: 50px;
+		padding-right: 50px;
+	}
+
+	.gallery_body {
+		padding-left: 50px;
+		padding-right: 30.8px;  /*1.5% от 1280px = 19.2px*/
+	}                           /*  50px - 19.2px = 30.8px*/
+ }
+	
+	
+	
+@media screen and (max-width:1200px) {
+
+	.gallery_title_navigat ul a {
+		font-size: 12px;
+	}
+
+	.gallery_body {
+		padding-right: 32px;
+	}
+
+	.contacts_cont_descr {
+		font-size: 20px;
+    }
+}
+	
+	
+	
+@media screen and (max-width:1024px) {
+
+	/*  Style for burger*/
+
+	.header {
+	    position: relative;
+	    overflow: hidden;
+	}
+
+	.header_title_nav {
+	    width: 100%;
+	    position: absolute;
+	    top: 0;
+	    left: 65%;
+	    z-index: 30;
+	    flex-direction: column;
+	    align-items: center;
+	    padding: 110px 30px 30px;
+	    background-color: #000;
+	    transform: translateY(-100%);
+	    margin: 0;
+	}
+
+	.header_title_nav.is-show {
+	    transform: translateY(0%);
+	}
+
+	.header_title_nav li {
+	    width: 100%;
+        margin-bottom: 10px;
+        text-align: left;
+        padding-left: 100px;
+        padding-bottom: 15px;
+	}
+
+	.burger {
+	    display: block;
+	}
+
+	.burger.is-active span:nth-child(1){transform: rotate(45deg);}
+	.burger.is-active span:nth-child(2){opacity: 0;}
+	.burger.is-active span:nth-child(3){transform: rotate(-45deg);}
+
+   /* -------------------------------------*/
+
+	.header_body_fitness {
+	    font-size: 90px;
+	}
+
+	.header_body_famaly {
+	    font-size: 38px;
+	   /* word-spacing: 4px;*/
+        letter-spacing: 2px;
+	}
+
+	.header_body_text .text_column {
+	    font-size: 16px;
+	}
+
+	.header_body_text .text_column .p_top {
+	    font-weight: 500;
+	    letter-spacing: -2px;
+	    margin-bottom: 8px;
+	}
+
+    .red_button {
+        font-size: 22px;
+        padding: 0 20px;
+        height: 45px;
+    }
+
+    .services_item .line {
+        margin-right: 40px;
+    }
+
+    .services_item_name {
+        font-size: 36px;
+    }
+
+    .services_descr {
+        right: 132px;
+        font-size: 100px;
+    }
+
+    .services_descr[data-label="lab_0"] {
+        letter-spacing: 9px;
+    }
+
+    .services_descr[data-label="lab_1"] {
+        letter-spacing: 3px;
+    }
+
+    .services_descr[data-label="lab_2"] {
+        letter-spacing: 4px;
+    }
+
+    .services_descr[data-label="lab_3"] {
+        letter-spacing: 13px;
+    }
+
+    .services_descr[data-label="lab_4"] {
+        letter-spacing: 14px;
+    }
+
+    .couches_title_word {
+        font-size: 40px;
+    }
+
+    .left_title {
+        font-size: 36px;
+    }
+
+    .left_line_cont {
+        height: 100px;
+    }
+
+    .left_line_cont .line {
+        height: 6px;
+    }
+
+    .right_title {
+        font-size: 36px;
+    }
+
+    .red_button.white {
+        font-size: 22px;
+        padding: 0 20px; 
+    }
+
+    .promo_bottom .soc_panel {
+        width: 17%;
+    }
+
+    .gallery_title {
+        flex-wrap: wrap;
+        padding-top: 50px;
+    }
+
+    .gallery_title_name {
+        font-size: 40px;
+    }
+
+    .gallery_title_navigat {
+	    width: 100%;
+    }
+
+    .gallery_title_navigat ul a {
+        font-size: 15px;
+    }
+
+    .gallery_body {
+        padding-right: 34.64px;
+        padding-bottom: 50px;
+    }
+
+    .contacts_title {
+        padding-right: 50px;
+        padding-left: 50px;
+        padding-top: 50px;
+        padding-bottom: 40px;
+    }
+
+    .contacts_title h3 {
+        font-size: 40px;
+    }
+
+    .contacts_cont {
+        padding-right: 50px;
+        padding-left: 50px;
+    }
+
+    .contacts_cont_descr {
+        font-size: 18px;
+    }
+
+    .footer {
+        padding-right: 50px;
+        padding-left: 50px;
+    }
+
+    .footer .top_line {
+        flex-wrap: wrap;
+        padding-bottom: 0;
+    }
+
+    .copy {
+        width: 100%;
+    }
+
+    .contacts_info {
+        width: 100%;
+    }
+
+    .bottom_line {
+        flex-wrap: wrap;
+    }
+
+    .docs {
+        width: 100%;
+    }
+
+    .footer_title {
+        margin: 15px 0 10px;
+
+    }
+
+    .footer_services {
+        width: 100%;
+    }    
+}
+
+ 
+@media screen and (max-width:960px) {
+
+	.services_title {
+		font-size: 40px;
+	}
+
+	.services_body {
+		padding-right: 90px;
+		padding-bottom: 50px;
+	}
+
+	.services_item .line {
+		height: 4px;
+	}
+    
+
+    .services_item_name {
+    	font-size: 30px;
+    	word-spacing: 5px;
+    }
+
+    .services_descr {
+    	right: 92px;
+	    font-size: 85px;
+	    line-height: 0.9;
+    }
+
+    .couches_title_word {
+        font-size: 32px;
+    }
+
+    .couches_title_word span {
+       margin-left: 0;
+    }
+
+    .cards_title_word {
+    	font-size: 40px;
+    }
+
+    .cards_title_word span {
+    	margin-left: 0;
+    }
+
+    .timetable span {
+    	margin-left: 0;
+    }
+
+    .gallery_title_name {
+    	width: 100%;
+    	font-size: 40px;
+    }
+
+    .gallery_title_navigat ul a {
+    	font-size: 11px;
+    }
+
+    .contacts_title h3 {
+    	font-size: 40px;
+    }
+
+    .contacts_cont_descr {
+    	font-size: 15px;
+    }
+
+}
+
+
+
+        /*  IPad   768 x 1024*/
+
+@media screen and (max-width: 800px) {
+
+    .header {
+		padding-left: 30px;
+		padding-right: 30px;
+	}
+
+     /*Style for burger*/
+	.header_title_nav {
+		left: 60%;
+	}
+
+	.header_title_nav li {
+		padding-left: 60px;
+	}
+    /* --------------------*/
+
+    .header_body .soc_panel {
+    	width: 15%;
+    }
+
+    .services_title {
+    	padding-left: 30px;
+		padding-right: 30px;
+		font-size: 30px;
+    }
+
+    .services_body {
+    	padding-right: 70px;
+    }
+
+    .services_body a {
+        margin-bottom: 30px;
+    }
+
+    .services_item .line {
+    	width: 25%;
+    	margin-right: 20px;
+    }
+
+    .services_item_name {
+    	width: 75%;
+    	word-spacing: 1px;
+    	font-size: 26px;
+    }
+
+    .services_descr {
+    	right: 75px;
+    	font-size: 70px;
+    	top: 45px;
+    }
+
+    .services_descr[data-label="lab_0"] {
+        letter-spacing: 11px;
+    }
+
+    .services_descr[data-label="lab_1"] {
+        letter-spacing: 7px;
+    }
+
+    .services_descr[data-label="lab_2"] {
+        letter-spacing: 8px;
+    }
+
+    .couches_title {
+    	padding-left: 30px;
+		padding-right: 30px;
+    }
+
+    .couches_title_word {
+        font-size: 24px;
+    }
+
+    .photo_descr_experience {
+    	font-size: 22px;
+    }
+
+    .photo_descr_year {
+    	padding: 10px 0;
+    }
+
+    .photo_descr_special {
+    	font-size: 22px;
+    }
+
+    .cards_title {
+        padding-left: 30px;
+		padding-right: 30px;
+    }
+
+     .cards_title_word {
+    	font-size: 30px;
+    }
+
+    .cards_slider .owl-nav button {
+    	font-size: 40px; /*Уменьшаем кнопку*/
+    }
+
+    .cards_slider .owl-nav:not(.disabled) {
+    	/*Придвигаем кнопки к фото, уменьшая ширину блока owl-nav*/
+	    width: calc(100% + 10px);
+	    left: -5px;  /*Сдиг левой кнопки*/
+    }
+
+    .right_title {
+    	font-size: 30px;
+    }
+
+    .left_title {
+    	font-size: 30px;
+    }
+
+    .gallery_title {
+    	padding-left: 30px;
+		padding-right: 30px;
+    }
+
+     .gallery_title_name {
+    	font-size: 30px;
+    }
+
+    .gallery_body {
+    	padding-left: 30px;
+		padding-right: 18.48px;  /*1.5%*768=11.52px*/
+    }                            /*30px-11.52px=18.48px*/
+
+   /* .gallery_elem {
+    	height: 86px;
+    }*/
+
+    .contacts_title {
+    	padding-left: 30px;
+		padding-right: 30px;
+    }
+
+     .contacts_title h3 {
+    	font-size: 30px;
+    }
+
+    .contacts_title .soc_panel {
+    	width: 15%;
+    }
+
+    .contacts_title .soc_panel a {
+    	font-size: 20px;
+    }
+
+    .contacts_cont {
+    	flex-wrap: wrap;
+    	padding-bottom: 40px;
+    	padding-left: 30px;
+		padding-right: 30px;
+    }
+
+    .contacts_cont_item {
+    	width: 50%;
+    	padding-right: 20px;
+    }
+
+    .contacts_cont_title {
+    	font-size: 18px;
+    	margin-bottom: 10px;
+    }
+   
+    .footer {
+    	padding-left: 30px;
+		padding-right: 30px;
+    }
+
+    .popup {
+        max-width: 400px;
+    }
+
+    .popup_content .title {
+        font-size: 22px;
+        padding-bottom: 15px;
+    }
+
+    .popup_content form input {
+        height: 35px;
+        padding-left: 15px;
+        margin-bottom: 10px;
+        font-size: 14px;
+    }
+
+    .popup_content form select {
+        height: 35px;
+        padding-left: 15px;
+        margin-bottom: 10px;
+        font-size: 14px;
+    }
+
+    .popup_content form .red_button {
+        font-size: 14px;
+        height: 35px;
+    }
+
+}
+
+
+
+
+@media screen and (max-width: 660px) {
+
+    .red_button {
+    	box-shadow: 2px 2px 24px #000;
+    	width: 80%;
+    	font-size: 14px;
+    	height: 45px;
+    }
+
+    .red_button.white {
+    	width: 80%;
+    	font-size: 13px;
+    	padding: 0 5px;
+    	height: 45px;
+    }
+
+    .cards_title_word {
+    	padding-left: 20px;
+    }
+
+    .gallery_title {
+    	padding-bottom: 10px;
+    }
+
+    .gallery_title_navigat ul {
+        flex-wrap: wrap;
+        justify-content: flex-start;
+    } 
+
+     .gallery_title_navigat ul li {
+     	padding-top: 8px;
+     } 
+
+    .gallery_title_navigat ul li a {
+    	padding-right: 30px;
+    	font-size: 13px;
+    }
+
+}
+
+
+
+@media screen and (max-device-width: 550px) {
+
+    .cards_title_word {
+    	padding-right: 30px;
+    }
+
+    .contacts_title .soc_panel {
+        width: 25%; 
+    }
+
+    .footer .contacts_info {
+    	flex-wrap: wrap;
+    }
+
+    .footer .contacts_info p {
+        width: 100%;
+        margin-bottom: 0;
+    }
+
+    .footer_title {
+    	margin-top: 35px;
+    }	
+
+}
+
+
+
+
+@media screen and (max-width: 480px) {
+
+	.header {
+		min-height: 100vh;
+        height: auto;
+        position: relative;
+        padding-bottom: 50px;
+	}
+    
+     /*   Затемнение экрана*/
+	 .header:after {  
+    	content: "";
+    	position: absolute;
+    	left: 0;
+    	top: 0;
+    	width: 100%;
+    	height: 100%;
+    	background-color: rgba(0, 0, 0, 0.2);
+    }
+
+	.header_title {
+		position: relative;
+		z-index: 3;
+	}
+
+      /*Style for burger*/
+
+	.header_title_nav {
+		left: 55%;
+		padding-top: 80px;
+		padding-bottom: 0;
+		transform: translateY(-112%);
+	}
+
+	.header_title_nav.is-show {
+		transform: translateY(-12%);
+	}
+
+	.header_title_nav li {
+		padding-left: 35px;
+	}
+
+	.header_title_nav a {
+		font-size: 14px;
+	}
+    
+    /* ---------------------------*/
+
+    .header_body {
+    	align-items: center;
+    	min-height: 0;
+    	position: relative;
+    	z-index: 3;
+    }
+
+    .header_body .soc_panel {
+        display: none;
+    }
+
+    .header_body_inf {
+    	width: 100%;
+    	text-align: center;
+    }
+
+    .header_body_fitness {
+    	font-size: 80px;
+    }
+
+    .header_body_famaly {
+        font-size: 32px;
+    }
+
+    .header_body_text {
+    	padding-top: 30px;
+	    padding-bottom: 50px;
+    }
+
+    .header_body_text .text_column {
+        font-size: 16px;
+    }
+
+    .services_title {
+    	font-size: 26px;
+    }
+
+    .services_body {
+    	padding-right: 60px;
+    }
+
+    .services_item {
+    	margin-bottom: 28px;
+    }
+
+    .services_item .line {
+    	margin-right: 10px;
+    }
+
+    .services_item_name {
+    	font-size: 20px;
+    }
+
+    .services_descr {
+    	right: 62px;
+        font-size: 60px;
+    }
+
+    .couches_title {
+    	flex-wrap: wrap;
+    }
+
+    .couches_title_word {
+    	font-size: 26px;
+    	padding-bottom: 20px;
+    }
+
+    .couches_slider .owl-nav button {
+    	font-size: 50px; /*Уменьшаем кнопку*/
+    }
+
+    .couches_slider .owl-nav:not(.disabled) {
+    	/*Придвигаем кнопки к фото, уменьшая ширину блока owl-nav*/
+	    width: calc(100% + 40px); 
+	    left: -20px;  /*Сдиг левой кнопки*/
+    }
+
+     .cards_title_word {
+    	font-size: 26px;
+    }
+
+    .left_title {
+    	font-size: 18px;
+    }
+
+    .right_title {
+    	font-size: 18px;
+    }
+
+    .promo_bottom .soc_panel {
+        width: 27%;
+    }
+
+    .gallery_title_name {
+    	font-size: 26px;
+    }
+
+    .gallery_body {	
+    	padding-right: 22.8px; /* 1.5% от 480px = 7.2px*/
+    }                          /*30px - 7.2px = 22.8px*/ 
+
+    .gallery_elem {       /* padding-и не считаем, т.е.*/      
+        width: 31.8333%;  /*100% - 4.5%(margin-right)*/                        
+    }                     /*100%-4.5%= 95.5% / 3 = 31.8333px*/
+
+    .contacts_title {
+    	padding-bottom: 20px;
+    }
+
+    .contacts_title h3 {
+    	font-size: 26px;	
+    }
+
+    .footer {
+        padding-bottom: 20px
+    }
+
+    .footer .bottom_line {
+    	padding-top: 10px;
+    }
+
+    .footer .top_line .copy {
+    	font-size: 14px;
+    	padding-right: 0;
+    }
+
+    .bottom_line {
+    	padding-top: 30px;
+    }
+
+    .footer_title {
+    	font-size: 22px;
+    }
+
+    .footer_services {
+        flex-wrap: wrap;
+    }
+
+    .footer_services ul li {
+    	width: 100%;
+    }
+}
+
+
+@media screen and (max-device-width: 390px) {
+
+    .header {
+    	padding-left: 15px;
+    	padding-right: 15px;
+    }
+
+      /*Style for burger*/
+	.header_title_nav {
+		padding-left: 20px;
+	}
+
+	.header_title_nav li {
+		padding-left: 10px;
+	}
+    /* ---------------------------*/
+
+    .header_body_fitness {
+    	font-size: 65px;
+    }
+
+    .header_body_famaly {
+    	font-size: 26px;
+    }
+
+    .header_body_text .text_column {
+    	font-size: 13px;
+    }
+
+    .couches_title .red_button {
+     	height: 35px;
+     }
+
+    .services_title {
+    	padding-bottom: 20px;
+    }
+
+    .services_body {
+        padding-right: 40px;
+    }
+
+    .services_body a {
+    	margin-bottom: 15px;
+    }
+
+    .services_item_name {
+    	font-size: 16px;
+    }
+
+    .services_descr {
+       right: 37px;
+       font-size: 35px;
+    }
+
+    .couches_title {
+    	padding-left: 15px;
+    	padding-right: 15px;
+    }
+
+    .couches_title_word {
+    	padding-bottom: 15px;
+    }
+
+    .photo_descr {
+        padding-top: 20px;
+        padding-bottom: 20px;
+    }
+
+    .photo_descr_experience {
+        font-size: 20px;
+    }
+
+    .photo_descr_special {
+    	font-size: 16px;
+    }
+
+    .photo_descr_list li {
+    	font-size: 14px;
+    	padding-left: 20px;
+        margin-bottom: 5px;
+    }
+
+    .photo_descr .couches_inst {
+    	font-size: 20px;
+    }
+
+    .cards_title {
+    	padding-left: 15px;
+    	padding-right: 15px;
+    }
+
+    .timetable {
+    	font-size: 22px;
+    }
+
+    .left_title {
+       font-size: 16px;
+    }
+
+    .promo_bottom .red_button.white {
+        font-size: 10px;
+        padding: 0 7px;
+        margin: 0 auto;
+        height: 30px;
+        letter-spacing: .5px;
+    }
+
+    .promo_bottom .soc_panel a {
+       font-size: 18px;
+    }
+
+    .gallery_title {
+    	padding-left: 15px;
+    	padding-right: 15px;
+    }
+
+    .gallery_body {
+    	padding-left: 15px;
+        padding-right: 11.1px; /*1% от 390px = 3.9px*/
+    }                          /*15px - 3.9px = 11.1px*/ 
+
+    /*.gallery_body a {
+     	height: 60px;
+    }*/
+
+    .contacts_title .soc_panel {
+    	width: 30%;
+    }
+
+    .contacts_title .soc_panel a {
+    	font-size: 18px;
+    }
+
+    .contacts_cont_item {
+    	width: 100%;
+    }
+  
+
+    .popup_content .title {
+        font-size: 20px;
+    }
+
+    #popup_modal_spa {
+    	padding-top: 30px;
+    }
+
+    #popup_modal_spa .title {
+        font-size: 20px;
+        margin-bottom: 10px;
+        padding-bottom: 10px;
+    }
+
+    .popup ul {
+    	padding-left: 10px;
+    }
+
+    .popup ul li {
+    	font-size: 16px;
+    }
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
